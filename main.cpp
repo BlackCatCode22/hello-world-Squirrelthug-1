@@ -1,11 +1,10 @@
 #include <iostream>
-using namespace std;
 
-// Main() function: where the execution of
-// program begins
+    // Main() function: where the execution of
+    // program begins
 int main()
 {
     // Prints "Hello World" to the terminal
-    cout << "Hello World";
+    std::cout << "Hello World";
     return 0;
 }
